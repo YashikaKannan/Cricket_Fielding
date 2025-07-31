@@ -39,18 +39,13 @@ Where:
 
 ---
 
-## 📊 Bar Chart Output
-
-![Fielding Bar Chart](images/fielding_chart.png)
-
----
 
 ## 💻 Tech Used
 
 - Python
 - Pandas
 - Matplotlib
-- Google Colab / Jupyter Notebook
+- Google Colab
 
 ---
 
